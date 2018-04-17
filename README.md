@@ -1,11 +1,11 @@
 # vue_study
 
-> This is a exmaple project for studying VueJS
+> This is a example project for studying VueJS
 
 ## Requirement
-npm install vue
-npm install --global vue-cli
-npm install axios --save
+npm install vue </br>
+npm install --global vue-cli </br>
+npm install axios --save </br>
 
 
 ## Build Setup
