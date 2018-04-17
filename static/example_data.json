@@ -1,0 +1,74 @@
+[
+  {
+    "imageUrl": "/static/images/image1.jpg",
+    "price": "5,7 tỉ",
+    "street": "22 Hai Bà Trưng",
+    "district": "Quận 1",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 2,
+    "spare": 70,
+    "numberOfFloor": 4,
+    "id": "1"
+  },
+  {
+    "imageUrl": "/static/images/image2.jpg",
+    "price": "4 tỉ",
+    "street": "17 Nơ Trang Long",
+    "district": "Quận Bình Thạnh",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 5,
+    "spare": 44,
+    "numberOfFloor": 4,
+    "id": "2"
+  },
+  {
+    "imageUrl": "/static/images/image3.jpg",
+    "price": "7 tỉ",
+    "street": "22 Phổ Quan",
+    "district": "Quận Tân Bình",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 2,
+    "spare": 70,
+    "numberOfFloor": 4,
+    "id": "3"
+  },
+  {
+    "imageUrl": "/static/images/image4.jpg",
+    "price": "11 tỉ",
+    "street": "66 Hai Bà Trưng",
+    "district": "Quận 1",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 2,
+    "spare": 70,
+    "numberOfFloor": 4,
+    "id": "4"
+  },
+  {
+    "imageUrl": "/static/images/image5.jpg",
+    "price": "9 tỉ",
+    "street": "Đoàn Văn Bơ",
+    "district": "Quận 4",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 2,
+    "spare": 70,
+    "numberOfFloor": 4,
+    "id": "5"
+  },
+  {
+    "imageUrl": "/static/images/image6.jpg",
+    "price": "33 tỉ",
+    "street": "22 Nguyễn Thị Thập",
+    "district": "Quận 7",
+    "city": "TP HCM",
+    "type": "Nhà bán",
+    "numberOfBedRoom": 2,
+    "spare": 145,
+    "numberOfFloor": 4,
+    "id": "6"
+  }
+]
